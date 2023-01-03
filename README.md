@@ -18,7 +18,7 @@ Every part of this project is sample code which shows how to do the folllowing:
 
 ## How you can install this project and test it
 1. clone this project
-2. install python (django)
-3. run: python manage.py runserver
+2. npm i (to install all packages)
+3. run: npm start or npm run dev
 
 Useful documentation: https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
