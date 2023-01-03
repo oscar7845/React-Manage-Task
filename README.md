@@ -21,4 +21,4 @@ Every part of this project is sample code which shows how to do the folllowing:
 2. install python (django)
 3. run: python manage.py runserver
 
-Useful documentation: (https://reactjs.org/) https://reactjs.org/docs/getting-started.html
+Useful documentation: (https://reactjs.org/) & (https://reactjs.org/docs/getting-started.html)
