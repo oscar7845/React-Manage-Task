@@ -1,6 +1,6 @@
-# React app 
+# React.js app 
 
-## A fully functional tasks project written in python (django) designed to create, modify, or delete tasks.
+## A fully functional tasks project using React 
 
 
 Every part of this project is sample code which shows how to do the folllowing:
@@ -21,4 +21,4 @@ Every part of this project is sample code which shows how to do the folllowing:
 2. install python (django)
 3. run: python manage.py runserver
 
-Useful documentation: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+Useful documentation: (https://reactjs.org/) https://reactjs.org/docs/getting-started.html
