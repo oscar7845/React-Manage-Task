@@ -10,8 +10,9 @@ Every part of this project is sample code which shows how to do the folllowing:
 * mark task as completed
 * filter taks (completed or incompleted)
 
-## Check out each feature here - (deployed using vercel)
-# https://task-rho-eight.vercel.app/
+## Check out each feature here - (deployed using vercel) https://task-rho-eight.vercel.app/
+
+![taks_11](https://user-images.githubusercontent.com/98499720/210348208-13f8b75c-6a75-4d3e-bf0d-91d8cc5726e8.gif)
 
 
 ## How you can install this project and test it
